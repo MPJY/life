@@ -17,4 +17,5 @@ demo9 万圣节{
 123云（不限速-文件夹）:https://www.123pan.com/s/SkqrVv-effk3
 百度网盘（限速-文件夹）:https://pan.baidu.com/s/1JU00F9hMJvNWlWIxsDIAkw?pwd=mpjy
 迅雷网盘（限速-文件夹）:https://pan.xunlei.com/s/VNFc9Og8gneCiXXQfYGmHplJA1?pwd=evhk#
+GITEE库(到demo10):https://gitee.com/PS-unitygame/PS/releases/tag/demo
 网站:http://47.94.141.29/ps
