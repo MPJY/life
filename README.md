@@ -40,7 +40,7 @@ From Kuaishou BEYOND has obtained its consent;
 
 2. Fonts
 
-Following SIL OFL's open source font sourcelight, the protocol agrees to embed fonts into games and sell them closed-source;
+Following SIL OFL's open source font segoe light, the protocol agrees to embed fonts into games and sell them closed-source;
 
 3. Pictures
 
