@@ -1,5 +1,8 @@
 #### 关于此游戏
 此游戏是一款模拟生活的游戏，您扮演一位小果子，完成一个人的入职、工作、升职到老板，你就赢了！
+#### 如何下载
+https://github.com/MPJY/life/releases
+从上面的链接中选择您需要的版本，根据需要下载。中国用户请点击中文版下载链接(请看简介)下载中文版。
 #### 游戏更新时段
 一年更新1到100次
 #### 游戏收费项
@@ -21,6 +24,9 @@ unity 3、2D
 
 #### About the English version of the game
 This game is a life simulation game, you play as a young man, complete a person's onboarding, work, promotion to boss, and you win!
+#### How to download
+https://github.com/MPJY/life/releases
+Select the version you need from the link above and download it according to your needs. For countries other than China, please check Assets to find the version you need to download.
 #### Game update period
 Updated from 1 to 100 times a year.
 #### Game charges
