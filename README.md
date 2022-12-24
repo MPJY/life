@@ -1,6 +1,8 @@
 <img src="http://skpyun.com/logo64.png" align="center">
 ####《生活(Life)》游戏！
+
 ####阅读帮助(Read help)
+
 [English](README-EN.md)
 
 [蓝奏云](https://lanzoui.com)
