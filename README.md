@@ -1,1 +1,1 @@
-<img src="//skpyun.com/logo64.png">
+<img src="http://skpyun.com/logo64.png">
