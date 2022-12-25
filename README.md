@@ -5,7 +5,7 @@
 
 [English](README-EN.md)
 
-[游戏下载(测试版)](https://github.com/MPJY/life/releases/tag/life-demo)
+[游戏下载](游戏下载)
 
 [蓝奏云](https://lanzoui.com)
 
