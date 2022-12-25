@@ -1,4 +1,4 @@
-<img src="http://skpyun.com/logo64.png" align="center">
+<img src="资源组/logo64.png" align="center">
 ####《生活(Life)》游戏！
 
 ####阅读帮助(Read help)
