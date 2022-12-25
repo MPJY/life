@@ -21,7 +21,7 @@ Such as: being deducted wages due to poor work, being fired for bullying employe
 
 #2. Is it open source A: Yes
 
-####Open
+####Open source
 
 #1.open agreement  A:I make.
 
