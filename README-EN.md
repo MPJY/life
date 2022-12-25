@@ -60,7 +60,7 @@ Section 2 of the Terms of Use
 
 3.1.1. When this game is streamed, the download button must not be small (outside 5 pixels);
 
-3.1.2. When this game is streamed, the download speed shall be more than 1MB (including, speed measurement in Liaoning and Beijing);
+3.1.2. When this game is streamed, the download speed shall be more than 1MB/s (At Liaoning and Beijing test speed.);
 
 3.1.3. When this game is distributed, the author and these Terms shall be indicated, and the downloader shall also comply with it;
 
