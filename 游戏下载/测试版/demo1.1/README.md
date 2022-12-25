@@ -4,4 +4,4 @@
 This is a brand new version! Greatly renovated from the inside out, codename: Hui Chen .
 specially made the English version!
 
-[Here](game(游戏英文版).zip),Are English version.(Please download game.zip file thank you download and star!)
+[Here](game(游戏英文版).zip),Are English version.(Please download game.zip file ,thank you download and star!)
