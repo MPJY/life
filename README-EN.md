@@ -3,7 +3,7 @@
 
 ####Read help
 
-[game download(Please select 测试版 file ,download.)](游戏下载)
+[game download(Please select 测试版 file ,and select you the version required download.)](游戏下载)
 
 [News and dynamic](新闻及动态)
 
