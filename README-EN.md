@@ -27,7 +27,7 @@ Such as: being deducted wages due to poor work, being fired for bullying employe
 
 If you need to read, you can follow the following excerpt to read.
 
-If you need to view the full article，[Here](其他/使用条款)
+If you need to view the full article，[Here(Chinese please translation.)](其他/使用条款)
 
 
 Section 2 of the Terms of Use
