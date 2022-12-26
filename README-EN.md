@@ -11,7 +11,7 @@
 
 The gameplay is that you play as a young man who has just come out of society, and applying for a job is your best choice.
 
-Apply for a job, keep appreciating in value and salary (you can also fish, if you are discovered, the bonus will be deducted by 100), and you will also need to continue to endure all possible setbacks during this period.
+Apply for a job, keep appreciating in value and salary (you can laziness, if you are discovered, the bonus will be deducted by 100), and you will also need to continue to endure all possible setbacks during this period.
 
 Such as: being deducted wages due to poor work, being fired for bullying employees, and so on. After all this, you can also become a boss and enjoy life!
 
@@ -69,4 +69,4 @@ Section 2 of the Terms of Use
 3.1.5. Content agreed by other authors.
 
 ####I say.
-My make's files all open!
+My make's files all open! The translation is from Microsoft Translator, and there is a possibility of inaccuracy.
