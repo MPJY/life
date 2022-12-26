@@ -69,4 +69,7 @@ Section 2 of the Terms of Use
 3.1.5. Content agreed by other authors.
 
 ####I say.
-My make's files all open! The translation is from Microsoft Translator, and there is a possibility of inaccuracy.
+
+My make's files all open! 
+
+The translation is from Microsoft Translator, and there is a possibility of inaccuracy.
