@@ -1,5 +1,5 @@
 <img src="资源组/logo64.png" align="center">
-#### 《Life》game！
+# 《Life》game！
 
 #### Read help
 
@@ -17,9 +17,9 @@ Such as: being deducted wages due to poor work, being fired for bullying employe
 
 #### Technical aspects
 
-# 1. Game Framework A: unityGUI 2D 3D
+1. Game Framework A: unityGUI 2D 3D
 
-# 2. Is it open source A: Yes
+2. Is it open source A: Yes
 
 #### Development status
 There may be no word at the moment, but there may be a 1.2 release in June 2023.
