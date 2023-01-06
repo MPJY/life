@@ -21,55 +21,14 @@ Such as: being deducted wages due to poor work, being fired for bullying employe
 
 #2. Is it open source A: Yes
 
-####Open source
+Development status
+Two versions have been made so far, but both have been abandoned, and version 1.2 may have a letter until June 23
 
-#1.open agreement  A:I make.
+What can I do?
+You can make a new game based on the package of this game, post your experience, opinions, etc. in this library, or change this game (please follow the terms of use)
 
-If you need to read, you can follow the following excerpt to read.
+You can also donate for me, after which you will get random prizes (not necessarily)
 
-If you need to view the full article，[Here(Is Chinese please translation.)](其他/使用条款)
-
-
-Section 2 of the Terms of Use
-
-2. Game open source protocol
-
-1. This game is open source, you can make a new game with the author's package, but you can't do the following:
-
-1.1. Say that new games developed using this game's package are independently produced by you;
-
-1.2. Use this game development package and accuse the author of infringement;
-
-1.3. Including but not limited to the above.
-
-1.4. The author shall have the right of final interpretation.
-
-1.5. Recompile the game value after changing it, make a cracked version, etc.
-
-1.6. If you sell the original free development package as a paid sale, please immediately compensate for the loss, and if you insist on continuing to sell, you will not be responsible for all the consequences.
-
-1.7. Unauthorized establishment of servers, mirror sites, network disk transfers, blog sharing, Github library theft and other activities without the consent of the author, and all consequences are not responsible.
-
-2. The author is not responsible for damage to the user's computer due to Github library, game network disk, download tools, game defects, etc.
-
-3. The package of the game cannot be used untouched for commercial use, can be modified, and cannot be disseminated without permission (the author will review it again from time to time, and if the following conditions are not met, the triage permission will be rejected)
-
-3.↑, can be used for private use, private discussion, study. Cannot be used for trademark, registration, closed-source commercial use (after modification, it must also be open source and declare the original author in a conspicuous place, the text must not be less than 10 pixels, if it is an open source platform, there is no text size limit)
-
-3.1. In accordance with clause 2.3, the diversion conditions are stated here
-
-3.1.1. When this game is streamed, the download button must not be small (outside 5 pixels);
-
-3.1.2. When this game is streamed, the download speed shall be more than 1MB/s (At Liaoning and Beijing test speed.);
-
-3.1.3. When this game is distributed, the author and these Terms shall be indicated, and the downloader shall also comply with it;
-
-3.1.4. Before the triage, you must communicate with the author, obtain a power of attorney, and display it in a conspicuous position;
-
-3.1.5. Content agreed by other authors.
-
-####I say.
-
-My make's files all open! 
+If you like, don't skimp on the star!
 
 The translation is from Microsoft Translator, and there is a possibility of inaccuracy.
