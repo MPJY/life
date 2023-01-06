@@ -1,9 +1,7 @@
 <img src="资源组/logo64.png" align="center">
 # 《生活(Life)》游戏！
 
-#### 阅读帮助(Read help)
-
-[English](README-EN.md)
+#### 阅读帮助
 
 [游戏下载(目前请选择测试版,然后选择您需要的版本下载)](游戏下载)
 
