@@ -1,5 +1,5 @@
 <img src="资源组/logo64.png" align="center">
-# 《Life》game！
+# Life game！
 
 #### Read help
 
